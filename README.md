@@ -2,6 +2,9 @@
 
 A machine learning project evaluating passenger data from the Titanic to predict survival outcomes using classification models.
 
+## Results
+- **Model Accuracy: 82%** on test data
+
 ## Project Files
 
 * `titanic project.ipynb` - Core data analysis, visualization, and modeling code.
